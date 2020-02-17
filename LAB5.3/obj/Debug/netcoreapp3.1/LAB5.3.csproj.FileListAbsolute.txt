@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\LAB5.3\bin\Debug\netcoreapp3.1\LAB5.3.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\LAB5.3\bin\Debug\netcoreapp3.1\LAB5.3.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\LAB5.3\bin\Debug\netcoreapp3.1\LAB5.3.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\LAB5.3\bin\Debug\netcoreapp3.1\LAB5.3.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\LAB5.3\bin\Debug\netcoreapp3.1\LAB5.3.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\LAB5.3\bin\Debug\netcoreapp3.1\LAB5.3.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\LAB5.3\obj\Debug\netcoreapp3.1\LAB5.3.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\LAB5.3\obj\Debug\netcoreapp3.1\LAB5.3.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\LAB5.3\obj\Debug\netcoreapp3.1\LAB5.3.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\LAB5.3\obj\Debug\netcoreapp3.1\LAB5.3.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\LAB5.3\obj\Debug\netcoreapp3.1\LAB5.3.pdb

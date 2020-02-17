@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RockPaperScissorsPractice\bin\Debug\netcoreapp3.1\RockPaperScissorsPractice.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RockPaperScissorsPractice\bin\Debug\netcoreapp3.1\RockPaperScissorsPractice.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RockPaperScissorsPractice\bin\Debug\netcoreapp3.1\RockPaperScissorsPractice.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RockPaperScissorsPractice\bin\Debug\netcoreapp3.1\RockPaperScissorsPractice.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RockPaperScissorsPractice\bin\Debug\netcoreapp3.1\RockPaperScissorsPractice.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RockPaperScissorsPractice\bin\Debug\netcoreapp3.1\RockPaperScissorsPractice.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RockPaperScissorsPractice\obj\Debug\netcoreapp3.1\RockPaperScissorsPractice.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RockPaperScissorsPractice\obj\Debug\netcoreapp3.1\RockPaperScissorsPractice.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RockPaperScissorsPractice\obj\Debug\netcoreapp3.1\RockPaperScissorsPractice.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RockPaperScissorsPractice\obj\Debug\netcoreapp3.1\RockPaperScissorsPractice.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RockPaperScissorsPractice\obj\Debug\netcoreapp3.1\RockPaperScissorsPractice.pdb

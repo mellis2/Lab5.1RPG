@@ -8,23 +8,22 @@ namespace LAB5._1RPG
     {
         private string weaponType;
 
-        public Warrior(string weaponType) 
-            :base("Willy the Warrior", 80, 95)
-        { 
-        
+        public Warrior(string name, int strength, int intelligence, string weaponType) : base(name, strength, intelligence)
+        {
+            this.weaponType = weaponType;
         }
 
         public string WeaponType { get => weaponType; set => weaponType = value; }
 
-        //public override void Play(string name, int strength, int intelligence, string weaponType)
-        //{
-        //    Console.WriteLine($"{name} (int {intelligence}, strength {strength} {weaponType}");
-
-        //}
-
-        public override string ToString()
+        public override string Play()
         {
-            return $"{Name} (int {Intelligence}, strength {Strength}) {WeaponType}";
+            return base.Play() + weaponType;
+
         }
+
+        //public override string ToString()
+        //{
+        //    return $"{Name} (int {Intelligence}, strength {Strength}) {WeaponType}";
+        //}
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -17,7 +18,7 @@ namespace Inheritance1
         public string Name { get => name; set => name = value; }
         public int Id { get => id; } //once constructed, id can't be changed
         public int Age { get => age; set => age = value; }
-        public int Count { get => count; }
+        public static int Count { get => count; }
 
         public Person(string name, int age)
         {

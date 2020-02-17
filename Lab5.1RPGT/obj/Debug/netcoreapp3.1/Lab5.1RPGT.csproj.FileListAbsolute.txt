@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.1RPGT\bin\Debug\netcoreapp3.1\Lab5.1RPGT.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.1RPGT\bin\Debug\netcoreapp3.1\Lab5.1RPGT.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.1RPGT\bin\Debug\netcoreapp3.1\Lab5.1RPGT.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.1RPGT\bin\Debug\netcoreapp3.1\Lab5.1RPGT.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.1RPGT\bin\Debug\netcoreapp3.1\Lab5.1RPGT.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.1RPGT\bin\Debug\netcoreapp3.1\Lab5.1RPGT.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.1RPGT\obj\Debug\netcoreapp3.1\Lab5.1RPGT.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.1RPGT\obj\Debug\netcoreapp3.1\Lab5.1RPGT.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.1RPGT\obj\Debug\netcoreapp3.1\Lab5.1RPGT.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.1RPGT\obj\Debug\netcoreapp3.1\Lab5.1RPGT.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.1RPGT\obj\Debug\netcoreapp3.1\Lab5.1RPGT.pdb

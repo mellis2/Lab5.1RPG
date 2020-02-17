@@ -1,0 +1,3 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.2RockPaperScissors\obj\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.2RockPaperScissors\obj\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\Lab5.2RockPaperScissors\obj\Debug\netcoreapp3.1\Lab5.2RockPaperScissors.AssemblyInfo.cs

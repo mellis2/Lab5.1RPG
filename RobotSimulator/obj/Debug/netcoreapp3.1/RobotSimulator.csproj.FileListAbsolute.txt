@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RobotSimulator\bin\Debug\netcoreapp3.1\RobotSimulator.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RobotSimulator\obj\Debug\netcoreapp3.1\RobotSimulator.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RobotSimulator\obj\Debug\netcoreapp3.1\RobotSimulator.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RobotSimulator\obj\Debug\netcoreapp3.1\RobotSimulator.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RobotSimulator\obj\Debug\netcoreapp3.1\RobotSimulator.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\RobotSimulator\obj\Debug\netcoreapp3.1\RobotSimulator.pdb

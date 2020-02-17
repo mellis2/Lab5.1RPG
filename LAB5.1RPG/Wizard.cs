@@ -10,21 +10,22 @@ namespace LAB5._1RPG
 
         public int SpellNumber { get => spellNumber; set => spellNumber = value; }
 
-        public Wizard(int spellNumber)
-            :base(100)
-            {
-                
-            }
-        //public override void Play(string name, int strength, int intelligence, string weaponType)
-        //{
-        //    Console.WriteLine($"{name} (int{intelligence}, strength {strength}) {spellNumber}");
+        public Wizard(string name, int strength, int intelligence, int magicEnergy, int spellNumber) : base(name, strength, intelligence, magicEnergy)
 
-        //}
-
-        public override string ToString()
         {
-            return $"{Name} (int {Intelligence}, strength {Strength}) {SpellNumber}";
+            this.spellNumber = spellNumber;
         }
+
+        public override string Play()
+        {
+            return base.Play() + " " + "spellNumber " + spellNumber;
+
+        }
+
+        //public override string ToString()
+        //{
+        //    return $"{Name} (int {Intelligence}, strength {Strength}) {SpellNumber}";
+        //}
 
 
 

@@ -21,17 +21,17 @@ namespace LAB5._1RPG
         public int Strength { get => strength; set => strength = value; }
         public int Intelligence { get => intelligence; set => intelligence = value; }
 
-        public virtual void Play(string name, int strength, int intelligence) 
+        public virtual string Play() 
         {
-            Console.WriteLine($"{name} {strength} {intelligence}");
+            return $"{name} (strength {strength} intelligence {intelligence}) ";
                 
         }
 
 
-        public override string ToString()
-        {
-            return $"{Name} (int {Intelligence}, strength {Strength})";
-        }
+        //public override string ToString()
+        //{
+        //    return $"{Name} (int {Intelligence}, strength {Strength})";
+        //}
     }
 
 }

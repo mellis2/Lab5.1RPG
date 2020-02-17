@@ -8,22 +8,22 @@ namespace LAB5._1RPG
     {
         private int magicalEnergy;
 
-        public MagicUsingCharacter(int magicalEnergy)
-            :base("Magic Man", 80, 85) 
-        { 
+        public MagicUsingCharacter(string name, int strength, int intelligence, int magicEnergy) : base(name, strength, intelligence)
             
+        {
+            this.magicalEnergy = magicEnergy;
         }
         public int MagicalEnergy { get => magicalEnergy; set => magicalEnergy = value; }
 
-        //public override void Play(string name, int strength, int intelligence, int magicalEnergy)
-        //{
-        //    Console.WriteLine($"{name} (int {intelligence}, strength {strength} {magicalEnergy }");
-
-        //}
-
-        public override string ToString()
+        public override string Play()
         {
-            return $"{Name} (int { Intelligence}, strength { Strength}){MagicalEnergy}";
+            return base.Play() + " " + "Magical Energy " + magicalEnergy;
+
         }
+
+        //public override string ToString()
+        //{
+        //    return $"{Name} (int { Intelligence}, strength { Strength}){MagicalEnergy}";
+        //}
     }
 }

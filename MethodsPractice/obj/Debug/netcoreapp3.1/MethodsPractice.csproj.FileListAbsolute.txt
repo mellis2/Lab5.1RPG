@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\MethodsPractice\bin\Debug\netcoreapp3.1\MethodsPractice.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week5\MethodsPractice\obj\Debug\netcoreapp3.1\MethodsPractice.pdb
